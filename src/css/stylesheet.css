@@ -1,0 +1,13 @@
+input[type=search] {
+    background-color: rgb(203, 252, 234) !important;
+    border: none !important;
+    border-bottom: 2px solid red !important;
+  }
+
+  h2.tdname {
+    font-family: "Cinzel Decorative", cursive !important;
+    font: 1em;
+  }
+  h1.tname{
+    font-family: 'Montserrat', sans-serif !important;
+  }
